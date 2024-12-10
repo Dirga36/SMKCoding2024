@@ -1,18 +1,17 @@
 # My Web Project
 
 ## Deskripsi Proyek
-Proyek ini adalah contoh halaman web sederhana yang dibuat menggunakan Tailwind CSS. Desain halaman ini berdasarkan gambar referensi yang diberikan dan mencakup header, area konten utama, dan footer.
+Proyek ini adalah contoh halaman web sederhana. Desain halaman ini berdasarkan modul tugas sebagai referensi yang diberikan dan mencakup header, area konten utama, dan footer.
 
 ## Fitur
-- **Penggunaan Tailwind CSS**: Mendemonstrasikan bagaimana menggunakan Tailwind CSS untuk membuat desain halaman web yang responsif dan modern.
+- **Penggunaan CSS**: Mendemonstrasikan bagaimana menggunakan Cascading Style Sheet untuk membuat desain halaman portofolio yang responsif dan modern.
 - **Struktur Halaman Dasar**: Menyediakan contoh struktur halaman web dasar dengan header, konten utama, dan footer.
-- **Ilustrasi Elektrik**: Menambahkan ilustrasi elektrik yang menarik.
 
 ## Kegunaan
 Proyek ini berguna sebagai contoh awal untuk:
-- Belajar dasar-dasar Tailwind CSS.
+- Belajar dasar-dasar membuat halaman portofolio.
 - Membuat struktur halaman web yang responsif.
-- Menggunakan ilustrasi dalam desain halaman web.
+- Membuat sebuah _form_ pada halaman web.
 
 ## Cara Menggunakan
 1. **Clone repositori ini**:
