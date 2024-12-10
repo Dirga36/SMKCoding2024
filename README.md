@@ -17,11 +17,11 @@ Proyek ini berguna sebagai contoh awal untuk:
 ## Cara Menggunakan
 1. **Clone repositori ini**:
     ```bash
-    git clone https://github.com/username/My-Web-Project.git
+    git clone https://github.com/Dirgant/SMKCoding2024.git
     ```
 2. **Masuk ke direktori proyek**:
     ```bash
-    cd My-Web-Project
+    cd SMKCoding2024
     ```
 3. **Buka file `index.html` dengan peramban web favorit Anda** untuk melihat halaman web.
 
@@ -29,6 +29,7 @@ Proyek ini berguna sebagai contoh awal untuk:
 ```
 My-Web-Project/
 ├── index.html
+├── style.css
 └── README.md
 ```
 
