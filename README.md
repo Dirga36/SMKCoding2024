@@ -27,7 +27,7 @@ Proyek ini berguna sebagai contoh awal untuk:
 
 ## Struktur Proyek
 ```
-My-Web-Project/
+SMKCoding2024/
 ├── index.html
 ├── style.css
 └── README.md
