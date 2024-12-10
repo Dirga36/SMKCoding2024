@@ -1,7 +1,7 @@
-# My Web Project
+# Tugas GitHub
 
 ## Deskripsi Proyek
-Proyek ini adalah contoh halaman web sederhana. Desain halaman ini berdasarkan modul tugas sebagai referensi yang diberikan dan mencakup header, area konten utama, dan footer.
+Proyek ini adalah contoh halaman web sederhana. Desain halaman ini berdasarkan modul **Git & GitHub Fundamental** tugas sebagai referensi yang diberikan dan mencakup header, area konten utama, dan footer.
 
 ## Fitur
 - **Penggunaan CSS**: Mendemonstrasikan bagaimana menggunakan Cascading Style Sheet untuk membuat desain halaman portofolio yang responsif dan modern.
