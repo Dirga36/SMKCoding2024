@@ -26,3 +26,14 @@ Proyek ini berguna sebagai contoh awal untuk:
 3. **Buka file `index.html` dengan peramban web favorit Anda** untuk melihat halaman web.
 
 ## Struktur Proyek
+```
+My-Web-Project/
+├── index.html
+└── README.md
+```
+
+## Kontribusi
+Kontribusi sangat diterima! Harap lakukan fork dari repositori ini dan buat pull request dengan perubahan Anda.
+
+## Lisensi
+Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
