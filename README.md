@@ -32,8 +32,5 @@ SMKCoding2024/
 └── README.md
 ```
 
-## Kontribusi
-Kontribusi sangat diterima! Harap lakukan fork dari repositori ini dan buat pull request dengan perubahan Anda.
-
 ## Lisensi
 Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
